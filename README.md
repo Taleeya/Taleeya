@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Taleeya
+- 👀 I’m interested in coding, gaming, and music. 
+- 🌱 I’m currently learning Python and HTML.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me: TrenedyAleeya@gmail.com or @TaleeyatheTechie on IG.
