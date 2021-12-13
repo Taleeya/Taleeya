@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Taleeya
-- 👀 I’m interested in Web and app development. 
-- 🌱 I’m currently learning Python and HTML.
-- 💞️ I’m looking to collaborate on Python, HTML, and JS projects.
-- 📫 How to reach me: TrenedyAleeya@gmail.com or @TaleeyatheTechie on IG.
